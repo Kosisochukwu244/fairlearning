@@ -102,7 +102,7 @@ No license file is included with this local copy. If you plan to publish this pr
 ## Author / Contact
 
 [GitHub](https://github.com/Kosisochukwu244/)
-[Email me](godswillchukwudime@gmail.com)
+[Email me](mailto:godswillchukwudime@gmail.com)
 
 
 
