@@ -101,11 +101,9 @@ No license file is included with this local copy. If you plan to publish this pr
 
 ## Author / Contact
 
-Created from the `fairness_income_tutorial.ipynb` notebook. Add author name and contact details here if you want to publish or share the notebook.
+[GitHub](https://github.com/Kosisochukwu244/)
+[Email me](godswillchukwudime@gmail.com)
 
----
 
-If you'd like, I can also:
-- generate a `requirements.txt` for easy installs,
-- convert the notebook to a Python script, or
-- extract a short summary of results from the executed notebook cells.
+
+
